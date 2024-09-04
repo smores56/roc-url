@@ -1,0 +1,6 @@
+# Ignore generated binaries (with no extension) by default
+*
+!*.*
+!*/
+
+generated-docs/
